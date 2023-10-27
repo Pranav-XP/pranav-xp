@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Programming:</p>
+<h3 align="left">Programming:</h3>
 
 ###
 
@@ -47,7 +47,7 @@
 
 ###
 
-<p align="left">Frameworks and Tools:</p>
+<h3 align="left">Other Technologies:</h3>
 
 ###
 
