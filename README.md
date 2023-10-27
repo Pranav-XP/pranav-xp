@@ -72,7 +72,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="80" src="https://unix.org/gallery/written_in_vi.gif"  />
+  <img height="40" src="https://raw.githubusercontent.com/Pranav-XP/pranav-xp/main/written_in_vi.gif"  />
 </div>
 
 ###
