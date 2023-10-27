@@ -72,7 +72,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://unix.org/gallery/written_in_vi.gif" alt="Written in VI">
+  <img height="80" src="https://unix.org/gallery/written_in_vi.gif"  />
 </div>
 
 ###
