@@ -1,6 +1,6 @@
 <br clear="both">
 <div align="center">
-  <img src="https://i.pinimg.com/originals/97/b3/12/97b312409fbcabc96d97ef45bf8f852b.gif" height="150" alt="terminal"  />
+  <img src="https://github.com/Pranav-XP/pranav-xp/blob/main/terminal_retro.gif" height="200" alt="terminal"  />
 </div>
 
 
